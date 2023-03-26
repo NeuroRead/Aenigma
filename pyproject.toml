@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "aenigma"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Sohal Sudheer", email="sohalsdr@gmail.com" },
   { name="Griffin Pitts", email="griffpitts@gmail.com" },
